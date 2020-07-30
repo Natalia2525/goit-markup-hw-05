@@ -564,6 +564,7 @@ body {
 
 .portfolio-wrapper {
     position: relative;
+    overflow:hidden
 }
 
 .overlay {
