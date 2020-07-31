@@ -64,7 +64,7 @@ body {
 /* Логотип */ 
 
 .header {
-    border-bottom: 1px solid #ECECEC;
+       line-height: normal;
 }
 
 .header .container {
